@@ -6,7 +6,7 @@ This comment must remain at the top in all cases - it will not be visible on fin
   
  
 body {
-background: url("https://i.postimg.cc/kXR74dvt/gotot-is-a-bitch(1).jpg") fixed;
+background: url("https://i.postimg.cc/jSPwD1rX/aa20th.webp") fixed;
 background-repeat: no-repeat;
 background-size: cover;
 color: #000;
@@ -25,7 +25,7 @@ border-bottom: 1px solid #000;
  
 /* Buttons */
 input[type="button"], input[type="submit"], input[type="submit"]:hover {
-background: #C4F0CD;
+background: #944EA7;
 color: #000;
 border: 1px solid #000;
 text-shadow: none;
@@ -69,7 +69,7 @@ box-shadow: none;
 }
   
 .navbar {
-background: #C4F0CD;
+background: #944EA7;
 border-bottom: 1px solid #000;
 color: #000;
 }
@@ -80,7 +80,7 @@ color: #000;
   
 .navbar-default .navbar-nav li a:hover {
 color: #000;
-background: #C4F0CD;
+background: #944EA7;
 border-left: 1px solid #000;
 border-right: 1px solid #000;
 } 
@@ -104,11 +104,11 @@ box-shadow: none;
 }
   
 .progress-bar {
-background: #FFB3AC;
+background: #A32A2A;
 }
   
 .progress {
-background: #EEF8E3;
+background: #2A60A3;
 border: 1px solid #000;
 }
   
@@ -142,7 +142,7 @@ border: 1px solid #000;
 }
  
 .breadcrumb {
-background:  #C4F0CD;
+background:  #944EA7;
 font-size: 13px;
 border: 1px solid #000;
 }
@@ -171,7 +171,7 @@ border: 1px solid #000;
   
 .table, .item {
 border: 1px solid #000;
-background: #C4F0CD;
+background: #2A60A3;
 border-collapse: separate;
 }
  
@@ -182,24 +182,24 @@ border: 0px solid #000;
  
 div .feature, .cave-grid, div .left, .mound-grid,  .table .bottom,  .table .top, .table th, .item-header, .item-footer {
 border: 0px solid #000;
-background: #FFB3AC;
+background: #2A60A3;
 color: #000;
 }
  
 .cave-grid, div .left, .mound-grid {
 border: 1px solid #000;
-background: #FFB3AC;
+background: #2A60A3;
 color: #000;
 }
  
 .table .left {
 border: 1px solid #000;
-background: #FFB3AC;
+background: #A32A2A;
 color: #000;
 }
  
 .inner-table .right {
-background: #EEF8E3;
+background: #A32A2A;
 border: 1px solid #000;
 border-left: none;
 }
