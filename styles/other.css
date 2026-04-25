@@ -3,12 +3,16 @@ CSS template originally created and presented by Kraft (#738/#1105)
 You may edit and use this code for personal or commercial use.
 This comment must remain at the top in all cases - it will not be visible on final upload.
 */
-  
-@import "https://fonts.googleapis.com/css2?family=Lacquer&display=swap";
+
+/* IMPORT FONT HERE */
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
 body {
 background: url("https://i.postimg.cc/mk6cffWc/hoi-hehe.webp") fixed;
 background-repeat: no-repeat;
 background-size: cover;
+/* FONT NAME HERE */
+font-family: 'Lacquer';
 color: #000;
 }
  
