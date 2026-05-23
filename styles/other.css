@@ -7,6 +7,13 @@ This comment must remain at the top in all cases - it will not be visible on fin
 /* IMPORT FONT HERE */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader');
 
+/* LIODEN LOGO REPLACER */
+
+
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+	content: url('https://i.postimg.cc/MHNHrD8G/n-RFZm-EE.png')
+}
+
 body {
 background: url("https://i.postimg.cc/mk6cffWc/hoi-hehe.webp") fixed;
 background-repeat: no-repeat;
