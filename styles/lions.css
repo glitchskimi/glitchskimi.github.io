@@ -284,11 +284,11 @@ text-shadow: none !important
 /* LINK COLOR */
 a:link,
 a:visited {
-	color: #962B4A !important
+	color: #3c111d !important
 }
 /* LINK HOVER COLOR */
 a:hover {
-	color: #396397 !important
+	color: #1c314b !important
 }
 /* BOX CONTAINER */
 .boxcontainer {
