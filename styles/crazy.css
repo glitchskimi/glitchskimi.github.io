@@ -39,10 +39,10 @@ overflow: auto;
 width: 10px;}
  
 ::-webkit-scrollbar-track {
-background-color: #406FA8;}
+background-color: #962B4A;}
  
 ::-webkit-scrollbar-thumb {
-background-color: #944EA7;
+background-color: #23319c;
 border-radius: 0px;
 border: none;}
 
@@ -50,26 +50,26 @@ border: none;}
 
 body 
 {
-background:url("https://i.postimg.cc/mk6cffWc/hoi-hehe.webp");
+background:url("https://i.postimg.cc/7Y2z0J3G/406a7e5dca54e7d57b1856682c0276d5.jpg");
 background-attachment:fixed;
 background-size:100%;
  font-family: 'Newsreader';
-color:#000!important;
+color:#962B4A!important;
 text-shadow:0px 0px 0px (255,255,255);
 }
 
 .col-md-3 .panel {
-    background: rgba(148,78,167, 0.5);
+    background: rgba(8, 19, 102, 0.5);
     color: black;
     border: 0px solid white;
     box-shadow: 0px 0px 0px #FFFFFF;}
 
-.badge {background: #406FA8;color: #962B4A;}
-.alert-danger {background: rgba(255,255,255);color:#406FA8!important;
+.badge {background: #962B4A;color: #406FA8;}
+.alert-danger {background: rgba(255,255,255);color:#962B4A!important;
 text-shadow: 0px 0px 0px (255,255,255);border: none;text-align: Left;}
-.alert-success {background: rgba(255,255,255);color:#406FA8!important;
+.alert-success {background: rgba(255,255,255);color:#962B4A!important;
 text-shadow: 0px 0px 0px (255,255,255);border: none;text-align: Left;}
-.center.b {color:#406FA8;}
+.center.b {color:#962B4A;}
  
  
 h1 {color:#962B4A;text-align:center;font-family: 'Newsreader';font-size:60px!important;text-shadow: 0px 0px 0px (255,255,255)}
@@ -101,7 +101,7 @@ h3 {color:#962B4A!important;text-align:center;font-family:'Newsreader';font-size
 td {background:#944EA7 !important;
 color:#944EA7!important;}
  
-td.right {background:#944EA7!important;color:#944EA7!important;border-color:#406FA8;}
+td.right {background:#944EA7!important;color:#962B4A!important;border-color:#962B4A;}
 
 td.right a:link {color:#962B4A!important;
 transition: 2.0s!important;}
@@ -193,9 +193,9 @@ color:#962B4A!important;
 }  
  
  
-.sidebar {background:rgba(148,78,167, 0.5)!important;color:#962B4A;border:0px solid black;}
+.sidebar {background:rgba(64,111,168, 0.5)!important;color:#962B4A;border:0px solid black;}
  
-.panel-body.small {background: rgba(148,78,167, 0.5);color:#962B4A;box-shadow:none;border:0px solid black;}
+.panel-body.small {background: rgba(150,43,74, 0.5);color:#962B4A;box-shadow:none;border:0px solid black;}
 
 .panel-body.small a:link {
 color:#962B4A!important;
@@ -363,7 +363,7 @@ text-shadow: 0px 0px 0px (255,255,255);transition: 0.8s!important;}
 
 
 .breadcrumb::after {
-        content: "CSS borrowed forever from Ace Attorney (#506560)";
+        content: "CSS made by Ace Attorney (#506560)";
         color: #962B4A;
         position: absolute;
         right: 13%;
@@ -445,9 +445,9 @@ div.item.center.floatleft.small {background:#944EA7!important;border:0px solid #
 div.item-header {background:#944EA7; color:#406FA8;}
 
  
-body > div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
-content: url('https://i.postimg.cc/XJcv4CyV/kill-me.png')
-;}
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+	content: url('https://i.postimg.cc/XJcv4CyV/kill-me.png')
+}
 
 .s-chat-message:nth-child(odd) {
     background: #944EA7;
@@ -489,3 +489,5 @@ content: url('https://i.postimg.cc/XJcv4CyV/kill-me.png')
 div.col-md-9.col-xs-12 {background:none;border:none;}
 
 Original CSS by Shad 16848
+
+
