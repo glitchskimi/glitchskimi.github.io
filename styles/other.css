@@ -7,14 +7,14 @@ This comment must remain at the top in all cases - it will not be visible on fin
 /* IMPORT FONT HERE */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader');
 
-/*CURSOR I THINK */
-* {cursor: url(https://i.postimg.cc/N0W1TgYK/wii-cursor(1).png), auto !important;}
-
 /* LIODEN LOGO REPLACER */
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 	content: url('https://i.postimg.cc/XJcv4CyV/kill-me.png')
 }
+
+/*CURSOR I THINK */
+* {cursor: url(https://i.postimg.cc/N0W1TgYK/wii-cursor(1).png), auto !important;}
 
 body {
 background: url("https://i.postimg.cc/mk6cffWc/hoi-hehe.webp") fixed;
