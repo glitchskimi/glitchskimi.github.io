@@ -445,6 +445,20 @@ a[href$="unsorted.php?id=588618"]>div.cave-grid>img /* Unsorted */ {
 	padding-right: 130px
 }
 
+/* Arrows, for caves */
+
+img[src$="arrowleft.png"] {
+content: url('https://i.postimg.cc/2SKPjMWL/rouxls-still.png') !important;
+width: XXpx !important; }
+
+img[src$="arrow.png"] {
+content: url('https://i.postimg.cc/rwmBkMK7/LOOKATTHISFK.png') !important;
+width: XXpx !important; }
+
+img[src$="arrowright.png"] {
+content: url('https://i.postimg.cc/wvLKG274/test(1).png') !important;
+width: XXpx !important; }
+
 /* Dynasty, achievements, etc */
 img[src$="den_ancestors.png"] /* King Dynasty */ {
 content: url('https://i.postimg.cc/sXkjB1Z7/Cyber-Field-location.png') !important;
