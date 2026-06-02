@@ -425,10 +425,10 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 }
 /* CAVE / MOUND IMAGES */
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important
+	content: url('https://i.postimg.cc/WbZYVznt/dog-maracas.png') !important
 }
 a[href$="534702"]>div.cave-grid>img {
-	content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important
+	content: url('https://i.postimg.cc/4dKb122q/deltarune-ch-4-vinyl.png') !important
 }
 
 a[href$="588618"]>div.cave-grid>img /*TEST*/ {
