@@ -435,6 +435,12 @@ a[href$="588618"]>div.cave-grid>img /*TEST*/ {
 	content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important
 }
 
+img[src$="den_ancestors.png"] /*TEST*/ {
+content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important;
+height: xxpx !important;
+opacity: 70%;
+transition: opacity 0.3s ease; }
+
 a[href$="lionoverview.php?id=588618"]>div.cave-grid>img /* Pride Overview */ {
 	content: url('https://i.postimg.cc/ydhh5Cjs/fun-gang-tea-party.png') !important
 }
