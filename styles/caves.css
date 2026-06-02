@@ -424,8 +424,14 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 	content: url('https://i.postimg.cc/XJcv4CyV/kill-me.png')
 }
 
-/* Arrows, for caves */
+/* Featured lion BG */
+img[src$="default.png"] {
+content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important;
+height: xxpx !important;
+opacity: 100%;
+transition: opacity 0.3s ease; }
 
+/* Arrows, for caves */
 img[src$="arrowleft.png"] {
 content: url('https://i.postimg.cc/rwmBkMK7/LOOKATTHISFK.png') !important;
 width: XXpx !important; }
