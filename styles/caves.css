@@ -64,7 +64,7 @@ border: none;
 }
 /* CSS CREDIT */
 .breadcrumb::after {
-content: "Template by Katie (#106445), rest of the code borrowed from Ace Attorney (#506560) :D";
+content: "when th";
 color: #1D0F21;
 position: absolute;
 right: 13%; /* (This may need adjusting) */
@@ -423,36 +423,15 @@ table#player img {
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 	content: url('https://i.postimg.cc/XJcv4CyV/kill-me.png')
 }
-/* CAVE / MOUND IMAGES */
-div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.postimg.cc/WbZYVznt/dog-maracas.png') !important
-}
-a[href$="534702"]>div.cave-grid>img {
-	content: url('https://i.postimg.cc/4dKb122q/deltarune-ch-4-vinyl.png') !important
-}
-
-a[href$="lionoverview.php?id=588618"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://i.postimg.cc/ydhh5Cjs/fun-gang-tea-party.png') !important
-}
-a[href$="unsorted.php?id=588618"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://i.postimg.cc/SxjBpDwm/ralsei-room-w-plush.png') !important
-}
-.mound-grid img /* Mound(s) */ {
-	background: url("https://i.postimg.cc/jqQRS3Cs/gmod.jpg");
-	width: 0;
-	height: 0;
-	padding-top: 80px;
-	padding-right: 130px
-}
 
 /* Arrows, for caves */
 
 img[src$="arrowleft.png"] {
-content: url('https://i.postimg.cc/2SKPjMWL/rouxls-still.png') !important;
+content: url('https://i.postimg.cc/rwmBkMK7/LOOKATTHISFK.png') !important;
 width: XXpx !important; }
 
 img[src$="arrowgrayleft.png"] {
-content: url('https://i.postimg.cc/2SKPjMWL/rouxls-still.png') !important;
+content: url('https://i.postimg.cc/rwmBkMK7/LOOKATTHISFK.png') !important;
 width: XXpx !important; }
 
 img[src$="arrow.png"] {
