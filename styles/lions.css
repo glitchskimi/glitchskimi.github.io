@@ -431,16 +431,6 @@ a[href$="534702"]>div.cave-grid>img {
 	content: url('https://i.postimg.cc/4dKb122q/deltarune-ch-4-vinyl.png') !important
 }
 
-a[href$="588618"]>div.cave-grid>img /*TEST*/ {
-	content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important
-}
-
-img[src$="den_ancestors.png"] /*TEST*/ {
-content: url('https://i.postimg.cc/jqQRS3Cs/gmod.jpg') !important;
-height: xxpx !important;
-opacity: 70%;
-transition: opacity 0.3s ease; }
-
 a[href$="lionoverview.php?id=588618"]>div.cave-grid>img /* Pride Overview */ {
 	content: url('https://i.postimg.cc/ydhh5Cjs/fun-gang-tea-party.png') !important
 }
@@ -454,6 +444,38 @@ a[href$="unsorted.php?id=588618"]>div.cave-grid>img /* Unsorted */ {
 	padding-top: 80px;
 	padding-right: 130px
 }
+
+/* Dynasty, achievements, etc */
+img[src$="den_ancestors.png"] /* King Dynasty */ {
+content: url('https://i.postimg.cc/sXkjB1Z7/Cyber-Field-location.png') !important;
+height: xxpx !important;
+opacity: 100%;
+transition: opacity 0.3s ease; } /* Dunno what this does, but it's probably fine... */
+
+img[src$="den_ancestorsfem.png"] /* Pride Dynasty */ {
+content: url('https://i.postimg.cc/sXkjB1Z7/Cyber-Field-location.png') !important;
+height: xxpx !important;
+opacity: 100%;
+transition: opacity 0.3s ease; }
+
+img[src$="den_achievements.png"] /* Achievements */ {
+content: url('https://i.postimg.cc/sXkjB1Z7/Cyber-Field-location.png') !important;
+height: xxpx !important;
+opacity: 100%;
+transition: opacity 0.3s ease; }
+
+img[src$="den_showcase.png"] /* Showcase */ {
+content: url('https://i.postimg.cc/sXkjB1Z7/Cyber-Field-location.png') !important;
+height: xxpx !important;
+opacity: 100%;
+transition: opacity 0.3s ease; }
+
+img[src$="den_beetlebook.png"] /* Beetle Book */ {
+content: url('https://i.postimg.cc/sXkjB1Z7/Cyber-Field-location.png') !important;
+height: xxpx !important;
+opacity: 100%;
+transition: opacity 0.3s ease; }
+
 /* MAKES BOXES/DESCRIPTION SHOW ON MOBILE */
 @media only screen and (max-width: 767px) {
 .container.main .hidden-xs {
