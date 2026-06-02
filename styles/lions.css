@@ -451,11 +451,19 @@ img[src$="arrowleft.png"] {
 content: url('https://i.postimg.cc/2SKPjMWL/rouxls-still.png') !important;
 width: XXpx !important; }
 
+img[src$="arrowgrayleft.png"] {
+content: url('https://i.postimg.cc/2SKPjMWL/rouxls-still.png') !important;
+width: XXpx !important; }
+
 img[src$="arrow.png"] {
 content: url('https://i.postimg.cc/rwmBkMK7/LOOKATTHISFK.png') !important;
 width: XXpx !important; }
 
 img[src$="arrowright.png"] {
+content: url('https://i.postimg.cc/wvLKG274/test(1).png') !important;
+width: XXpx !important; }
+
+img[src$="arrowgray.png"] {
 content: url('https://i.postimg.cc/wvLKG274/test(1).png') !important;
 width: XXpx !important; }
 
